@@ -1,6 +1,6 @@
 # QR Code Component
 
-![Design preview for the QR code component](./images/preview.jpg)
+![Design preview for the QR code component](preview.jpg)
 
 ## 🚀 Overview
 
