@@ -68,7 +68,7 @@ Open with Live Server (VS Code extension) or double-click index.html
 
 ## 📌 Preview
 
-![QR Code Component Preview](./images/preview.jpg)
+![QR Code Component Preview](preview.jpg)
 
 ---
 
